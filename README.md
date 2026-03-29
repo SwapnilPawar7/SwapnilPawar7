@@ -33,6 +33,6 @@ I specialize in bridging the gap between traditional Linux infrastructure and mo
 - 🏗️ Learning **Terraform** for multi-cloud provisioning
 
 📫 **How to reach me:** https://www.linkedin.com/in/swapnil-pawar-61b592132/ | swapnilpawar1013@gmail.com
-## 🌐 Socials:
+
 
 
