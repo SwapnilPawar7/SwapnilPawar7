@@ -1,4 +1,4 @@
-# Hi, I'm [Swapnil Pawar] 👋
+# Hi, I'm Swapnil Pawar 👋
 ### Linux Systems Administrator | Aspiring DevOps Engineer
 
 I specialize in bridging the gap between traditional Linux infrastructure and modern cloud-native automation. With 3 years of hands-on experience managing production Linux environments, I am now focusing on scaling infrastructure through **Infrastructure as Code (IaC)** and **CI/CD**.
