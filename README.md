@@ -1,4 +1,33 @@
+# Hi, I'm [Your Name] 👋
+### Linux Systems Administrator | Aspiring DevOps Engineer
 
+I specialize in bridging the gap between traditional Linux infrastructure and modern cloud-native automation. With 3 years of hands-on experience managing production Linux environments, I am now focusing on scaling infrastructure through **Infrastructure as Code (IaC)** and **CI/CD**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **OS:** RHEL/CentOS, Ubuntu, Debian
+- **Automation:** Ansible (Playbooks, Roles, Vault), Bash Scripting
+- **CI/CD:** Jenkins (Declarative Pipelines, Groovy), GitHub Actions
+- **Containers:** Docker, Docker-Compose
+- **Monitoring:** Zabbix (Custom User Parameters, Scripts)
+- **Backup & DR:** Acronis Cyber Protect
+
+---
+
+### 🚀 Featured Projects
+- 🛠️ **[Linux-Server-Hardening](link)**: Ansible role to secure fresh Linux installs (SSH, UFW, Fail2Ban).
+- 🔄 **[Jenkins-Docker-Pipeline](link)**: A Groovy-based pipeline for automated container builds and vulnerability scanning.
+- 📊 **[Zabbix-Automation-Toolkit](link)**: Custom shell scripts for advanced monitoring and automated incident response.
+
+---
+
+### 📈 Current Learning Path
+- ☁️ Preparing for **AWS Certified Solutions Architect**
+- ☸️ Mastering **Kubernetes (CKA)** basics
+- 🏗️ Learning **Terraform** for multi-cloud provisioning
+
+📫 **How to reach me:** [Your LinkedIn Link] | [Your Email]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swapnil-pawar-61b592132/) 
 
