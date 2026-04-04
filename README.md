@@ -1,5 +1,9 @@
 # Hi, I'm Swapnil Pawar 👋
-### Linux Systems Administrator | Aspiring DevOps Engineer
+### DevOps Engineer
+
+DevOps-oriented Linux Engineer with hands-on experience in infrastructure automation, monitoring, and backup systems. Skilled in AWS, Ansible, Docker, and CI/CD pipelines, with practical experience automating server provisioning and monitoring using Zabbix. 
+
+Proven ability to manage production environments, implement monitoring solutions, and improve system reliability through automation and proactive alerting. Currently focused on building scalable DevOps workflows and infrastructure-as-code practices.
 
 I specialize in bridging the gap between traditional Linux infrastructure and modern cloud-native automation. With 3 years of hands-on experience managing production Linux environments, I am now focusing on scaling infrastructure through **Infrastructure as Code (IaC)** and **CI/CD**.
 
