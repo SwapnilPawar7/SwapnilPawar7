@@ -12,7 +12,7 @@ I specialize in bridging the gap between traditional Linux infrastructure and mo
 ### 🛠️ Tech Stack & Tools
 - **OS:** RHEL/CentOS, Ubuntu, Debian
 - **Automation:** Ansible (Playbooks, Roles, Vault), Bash Scripting
-- **CI/CD:** Jenkins (Declarative Pipelines, Groovy)
+- **CI/CD:** Jenkins (Declarative Pipelines, Groovy), GitHub Actions
 - **Containers:** Docker, Docker-Compose
 - **Monitoring:** Zabbix (Custom User Parameters, Scripts)
 - **Backup & DR:** Acronis Cyber Protect
